@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(234, 229, 229);
+    margin-bottom: 50px;
+}
+
+#header-tittle {
+
+    background: white;
+    height: 100px;
+    margin: -22px;
+}
+
+h1 {
+    padding-left: 450px;
+}
+
+.div1 {
+    width: 660px;
+    margin: 0 auto;
+    background-color: white;
+    margin-top: 60px;
+}
+
+img {
+    width: 100%;
+    align-self: center;
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+h4 {
+    color: gray;
+}
+
+p {
+    padding: 20px;
+}
